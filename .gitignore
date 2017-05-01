@@ -1,0 +1,7 @@
+Origin/
+.DS_Store
+*.swp
+mandelbrot
+mandelbrot.png
+mandelbrot.ppm
+mandelbrot.py
