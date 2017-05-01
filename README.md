@@ -1,6 +1,6 @@
 # mandelbrot-set
 
-<img src="https://raw.githubusercontent.com/segnoda/mandelbrot-set/master/gallery/M0-1024.png"  width="512" height="512"/>
+<img src="https://raw.githubusercontent.com/segnoda/mandelbrot-set/master/gallery/M0-1024.png"  width="512"/>
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ $ sips -s format png mandelbrot.ppm --out mandelbrot.png
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/segnoda/mandelbrot-set/master/gallery/M1-1024.png"  width="512" height="512"/>
-<img src="https://raw.githubusercontent.com/segnoda/mandelbrot-set/master/gallery/M2-1024.png"  width="512" height="512"/>
-<img src="https://raw.githubusercontent.com/segnoda/mandelbrot-set/master/gallery/M3-1024.png"  width="512" height="512"/>
-<img src="https://raw.githubusercontent.com/segnoda/mandelbrot-set/master/gallery/M4-1024.png"  width="512" height="512"/>
+<img src="https://raw.githubusercontent.com/segnoda/mandelbrot-set/master/gallery/M1-1024.png"  width="512"/>
+<img src="https://raw.githubusercontent.com/segnoda/mandelbrot-set/master/gallery/M2-1024.png"  width="512"/>
+<img src="https://raw.githubusercontent.com/segnoda/mandelbrot-set/master/gallery/M3-1024.png"  width="512"/>
+<img src="https://raw.githubusercontent.com/segnoda/mandelbrot-set/master/gallery/M4-1024.png"  width="512"/>
