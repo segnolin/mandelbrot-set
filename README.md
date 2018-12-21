@@ -11,7 +11,7 @@ Everyone can simply draw almost any part of Mandelbrot set by this code.
 Just compile `mandelbrot.cpp` and execute `mandelbrot`.
 
 ```
-$ g++ mandelbrot.cpp -o mandelbrot -std=c++11 -Wall
+$ g++ mandelbrot.cpp -o mandelbrot -std=c++11 -Wall -pthread
 $ ./mandelbrot
 ```
 
